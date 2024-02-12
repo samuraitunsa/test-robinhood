@@ -1,0 +1,5 @@
+FROM scratch
+
+WORKDIR /usr/src/app/diagram
+
+COPY ./Test_Robinhood_Diagram.jpg ./
